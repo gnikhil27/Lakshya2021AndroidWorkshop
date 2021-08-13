@@ -6,6 +6,7 @@
         -There can be multiple Broadcast reciever
     3. **Notification** - It shows our message on Notification Bar 
     4. **Service**(Background) - Background programs which always runs even if an app is closed.(Independent - Requires more logic and memory)
+    5. **Intent** - Intent means intension(English), to do or start something. Intent in android means to call or start an activity
 
 ## Structure of Android Project
 1. activity_main.xml  -> UI/FrontEnd
