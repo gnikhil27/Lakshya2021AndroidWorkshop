@@ -35,3 +35,8 @@
 
 #### Constraint Layout
 - It will decide where our component should be with respect to top, left, right or bottom
+
+#### Linear Layout
+- This layout is second most commonly used layout
+- In this layout components uses 100% width of screen.
+- They are stacked from top to bottom or left to right according to the orientation given.
